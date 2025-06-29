@@ -1,0 +1,3 @@
+HTTP protocol is a request-response model.
+HTTP methods are Post, Put, Get, Delete.
+Major status codes are 200,201,300,401,404.
